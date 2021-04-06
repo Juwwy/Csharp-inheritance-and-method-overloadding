@@ -1,0 +1,16 @@
+C:\CodebitsAcademy\LabTask\CSharp Labtask\InheritanceTest1\PharmaTest\bin\Debug\net5.0\PharmaTest.exe
+C:\CodebitsAcademy\LabTask\CSharp Labtask\InheritanceTest1\PharmaTest\bin\Debug\net5.0\PharmaTest.deps.json
+C:\CodebitsAcademy\LabTask\CSharp Labtask\InheritanceTest1\PharmaTest\bin\Debug\net5.0\PharmaTest.runtimeconfig.json
+C:\CodebitsAcademy\LabTask\CSharp Labtask\InheritanceTest1\PharmaTest\bin\Debug\net5.0\PharmaTest.runtimeconfig.dev.json
+C:\CodebitsAcademy\LabTask\CSharp Labtask\InheritanceTest1\PharmaTest\bin\Debug\net5.0\PharmaTest.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\InheritanceTest1\PharmaTest\bin\Debug\net5.0\ref\PharmaTest.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\InheritanceTest1\PharmaTest\bin\Debug\net5.0\PharmaTest.pdb
+C:\CodebitsAcademy\LabTask\CSharp Labtask\InheritanceTest1\PharmaTest\obj\Debug\net5.0\PharmaTest.csprojAssemblyReference.cache
+C:\CodebitsAcademy\LabTask\CSharp Labtask\InheritanceTest1\PharmaTest\obj\Debug\net5.0\PharmaTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\CodebitsAcademy\LabTask\CSharp Labtask\InheritanceTest1\PharmaTest\obj\Debug\net5.0\PharmaTest.AssemblyInfoInputs.cache
+C:\CodebitsAcademy\LabTask\CSharp Labtask\InheritanceTest1\PharmaTest\obj\Debug\net5.0\PharmaTest.AssemblyInfo.cs
+C:\CodebitsAcademy\LabTask\CSharp Labtask\InheritanceTest1\PharmaTest\obj\Debug\net5.0\PharmaTest.csproj.CoreCompileInputs.cache
+C:\CodebitsAcademy\LabTask\CSharp Labtask\InheritanceTest1\PharmaTest\obj\Debug\net5.0\PharmaTest.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\InheritanceTest1\PharmaTest\obj\Debug\net5.0\ref\PharmaTest.dll
+C:\CodebitsAcademy\LabTask\CSharp Labtask\InheritanceTest1\PharmaTest\obj\Debug\net5.0\PharmaTest.pdb
+C:\CodebitsAcademy\LabTask\CSharp Labtask\InheritanceTest1\PharmaTest\obj\Debug\net5.0\PharmaTest.genruntimeconfig.cache
