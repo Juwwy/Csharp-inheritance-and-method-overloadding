@@ -8,12 +8,12 @@ namespace PharmaTest
 
        protected decimal price;
        protected int qtyStock;
-       public string ManufactureDate { get; set; }
-       public string ExpiryDate { get; set; }
+       public Date ManufactureDate { get; set; }
+       public Date ExpiryDate { get; set; }
 
        private int batchNumber;
 
-       public Medicine(int medicineCode, string medicineName, string manufacturedName, decimal price, int qtyStock, string manufactureDate, string expiryDate, int batchNumber) : base(medicineCode)
+       public Medicine(int medicineCode, string medicineName, string manufacturedName, decimal price, int qtyStock, Date manufactureDate, Date expiryDate, int batchNumber) : base(medicineCode)
        {
            MedicineName = medicineName;
            ManufactureName = manufacturedName;
@@ -70,7 +70,7 @@ namespace PharmaTest
 
        public string Print(int code, string medName)
        {
-           return $"\nMedicine with code {code} and of Name {medName} is manufactured on 22-08-2018 and expiring on 22-08-2022\n";
+           return $"\nMedicine with code {code} and of Name {medName} is manufactured on {ManufactureDate} and expiring on {ExpiryDate}\n";
        }
 
         // public override string ToString()
